@@ -1,0 +1,14 @@
+.gradle/
+build/
+*.class
+*.jar
+*.log
+.DS_Store
+.idea/
+*.iml
+.vscode/
+target/
+*.swp
+*.swo
+*~
+.env
